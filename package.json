@@ -1,0 +1,11 @@
+{
+  "name": "gitTest123",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node ./testing.ts"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "rimraf": "^3.0.2"
+  }
+}
